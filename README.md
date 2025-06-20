@@ -1,10 +1,11 @@
 #  Location Recommendation System
 
 This project recommends locations to users based on different criteria, including their check-in-history, social connections, and travel routes. It can suggest nearby unvisited places, locations popular among a user's network, or convenient stops along a planned trip.
-Features
+
 
 ![Image](https://github.com/user-attachments/assets/25ff0778-1f84-4a3d-8da5-ae6d7fc82b53)
 
+# Features
 ## This system offers three main functionalities:
 
   - Personalized Location Recommendations: Recommends a list of 10 unvisited locations for a user based on their last check-in. The system identifies unvisited locations, ranks them by proximity, and uses the Mapbox API to calculate travel times.
